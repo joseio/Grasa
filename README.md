@@ -1,2 +1,2 @@
 # Grasa
-Grading-based test suite augmentation
+Grading-based test suite augmentation. Instructions to come soon...

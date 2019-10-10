@@ -1,0 +1,6 @@
+C:\Users\rayjo\Documents\GitHub\Re-organizing BitBucket\Pex4Fun\Sp18_Q11_12_isSorted\behavioralsimilarity\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.exe.config
+C:\Users\rayjo\Documents\GitHub\Re-organizing BitBucket\Pex4Fun\Sp18_Q11_12_isSorted\behavioralsimilarity\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.exe
+C:\Users\rayjo\Documents\GitHub\Re-organizing BitBucket\Pex4Fun\Sp18_Q11_12_isSorted\behavioralsimilarity\Pex4Fun\Pex4Fun\bin\Debug\Pex4Fun.pdb
+C:\Users\rayjo\Documents\GitHub\Re-organizing BitBucket\Pex4Fun\Sp18_Q11_12_isSorted\behavioralsimilarity\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.csprojResolveAssemblyReference.cache
+C:\Users\rayjo\Documents\GitHub\Re-organizing BitBucket\Pex4Fun\Sp18_Q11_12_isSorted\behavioralsimilarity\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.exe
+C:\Users\rayjo\Documents\GitHub\Re-organizing BitBucket\Pex4Fun\Sp18_Q11_12_isSorted\behavioralsimilarity\Pex4Fun\Pex4Fun\obj\x86\Debug\Pex4Fun.pdb
