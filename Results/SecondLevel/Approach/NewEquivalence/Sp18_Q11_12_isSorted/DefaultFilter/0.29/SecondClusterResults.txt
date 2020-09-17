@@ -1,0 +1,16 @@
+PSE Cluster: 0.29	Resultant PSE Score: 0.7	Reference Submission: 1524331011.cs	Compared Submission: 1524338529.cs	Not Matched
+PSE Cluster: 0.29	Resultant PSE Score: 0.67	Reference Submission: 1524331011.cs	Compared Submission: 1524338700.cs	Not Matched
+PSE Cluster: 0.29	Resultant PSE Score: 0.78	Reference Submission: 1524331011.cs	Compared Submission: 1524338747.cs	Not Matched
+PSE Cluster: 0.29	Resultant PSE Score: 0.82	Reference Submission: 1524331011.cs	Compared Submission: 1524338773.cs	Not Matched
+PSE Cluster: 0.29	Resultant PSE Score: 0.78	Reference Submission: 1524331011.cs	Compared Submission: 1524338801.cs	Not Matched
+PSE Cluster: 0.29	Resultant PSE Score: 0.36	Reference Submission: 1524331011.cs	Compared Submission: 1524536925.cs	Not Matched
+PSE Cluster: 0.29	Resultant PSE Score: 1	Reference Submission: 1524338529.cs	Compared Submission: 1524338700.cs	Matched
+PSE Cluster: 0.29	Resultant PSE Score: 0.89	Reference Submission: 1524338529.cs	Compared Submission: 1524338747.cs	Not Matched
+PSE Cluster: 0.29	Resultant PSE Score: 0.89	Reference Submission: 1524338529.cs	Compared Submission: 1524338773.cs	Not Matched
+PSE Cluster: 0.29	Resultant PSE Score: 0.89	Reference Submission: 1524338529.cs	Compared Submission: 1524338801.cs	Not Matched
+PSE Cluster: 0.29	Resultant PSE Score: 0.6	Reference Submission: 1524338529.cs	Compared Submission: 1524536925.cs	Not Matched
+PSE Cluster: 0.29	Resultant PSE Score: 0.89	Reference Submission: 1524338700.cs	Compared Submission: 1524338773.cs	Not Matched
+PSE Cluster: 0.29	Resultant PSE Score: 0.89	Reference Submission: 1524338700.cs	Compared Submission: 1524338801.cs	Not Matched
+PSE Cluster: 0.29	Resultant PSE Score: 0.36	Reference Submission: 1524338700.cs	Compared Submission: 1524536925.cs	Not Matched
+PSE Cluster: 0.29	Resultant PSE Score: 1	Reference Submission: 1524338747.cs	Compared Submission: 1524338801.cs	Matched
+PSE Cluster: 0.29	Resultant PSE Score: 0.78	Reference Submission: 1524338747.cs	Compared Submission: 1524536925.cs	Not Matched

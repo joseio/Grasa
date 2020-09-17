@@ -1,0 +1,63 @@
+//Killed sub1, sub6, sub9, sub10
+  //Tests list: {0}
+
+[TestMethod]
+[PexGeneratedBy(typeof(MetaProgram))]
+public void Check182()
+{
+    using (PexTraceListenerContext.Create())
+    {
+      MetaProgram.List list;
+      MetaProgram.List list1;
+      MetaProgram.List list2;
+      MetaProgram.List list3;
+      MetaProgram.List list4;
+      MetaProgram.List list5;
+      int[] ints = new int[0];
+      list = MetaProgramFactory.CreateList(ints);
+      int[] ints1 = new int[0];
+      list1 = MetaProgramFactory.CreateList(ints1);
+      int[] ints2 = new int[0];
+      list2 = MetaProgramFactory.CreateList(ints2);
+      int[] ints3 = new int[0];
+      list3 = MetaProgramFactory.CreateList(ints3);
+      int[] ints4 = new int[0];
+      list4 = MetaProgramFactory.CreateList(ints4);
+      int[] ints5 = new int[0];
+      list5 = MetaProgramFactory.CreateList(ints5);
+      MetaProgram.Check(list1, list5, list, list2, list3, list4, 0);
+      Assert.IsNotNull((object)list1);
+      Assert.IsNotNull((object)list5);
+      Assert.IsNotNull((object)list);
+      Assert.IsNotNull((object)list2);
+      Assert.IsNotNull((object)list3);
+      Assert.IsNotNull((object)list4);
+    }
+}
+
+
+
+//Killed sub4 (Here, I checked that list and list1 pointed to diff references)
+  //Tests list {0-> 0}
+
+[PexGeneratedBy(typeof(MetaProgram))]
+public void Check409()
+{
+    MetaProgram.List list;
+    MetaProgram.List list1;
+    int[] ints = new int[1];
+    list = MetaProgramFactory.CreateList(ints);
+    int[] ints1 = new int[1];
+    list1 = MetaProgramFactory.CreateList(ints1);
+    MetaProgram.List list2 = new MetaProgram.List();
+    MetaProgram.Check(list, list1, list2, list, list, list, 0);
+    Assert.IsNotNull((object)list);
+    Assert.IsNotNull((object)list1);
+    Assert.IsNotNull((object)list2);
+    Assert.IsNotNull((object)list);
+    Assert.IsTrue(object.ReferenceEquals((object)list, (object)list));
+    Assert.IsNotNull((object)list);
+    Assert.IsTrue(object.ReferenceEquals((object)list, (object)list));
+    Assert.IsNotNull((object)list);
+    Assert.IsTrue(object.ReferenceEquals((object)list, (object)list));
+}

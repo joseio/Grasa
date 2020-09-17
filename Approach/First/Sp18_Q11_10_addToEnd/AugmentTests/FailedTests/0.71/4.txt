@@ -1,0 +1,18 @@
+{
+    MetaProgram.List s0 = new MetaProgram.List();
+    s0.value = 0;
+    s0.next = (MetaProgram.List)null;
+    MetaProgram.List s1 = new MetaProgram.List();
+    s1.value = 0;
+    s1.next = (MetaProgram.List)null;
+    MetaProgram.Check(s0, s1, 0, 1);
+}
+{
+    MetaProgram.List s0 = new MetaProgram.List();
+    s0.value = 0;
+    s0.next = (MetaProgram.List)null;
+    MetaProgram.List s1 = new MetaProgram.List();
+    s1.value = 0;
+    s1.next = (MetaProgram.List)null;
+    MetaProgram.Check(s0, s1, 0, 2);
+}

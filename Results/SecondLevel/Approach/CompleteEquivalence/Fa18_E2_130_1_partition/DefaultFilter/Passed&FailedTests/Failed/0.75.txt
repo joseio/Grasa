@@ -1,0 +1,126 @@
+bijn6-2018_Fall_E2_130_1-1544467329000&InstructorSolutions:
+{
+    int[] ints = new int[3];
+    int[] ints1 = new int[3];
+    ints[0] = int.MaxValue;
+    ints[1] = int.MaxValue;
+    ints1[0] = int.MaxValue;
+    ints1[1] = int.MaxValue;
+    MetaProgram.Check(ints, ints1);
+}
+bijn6-2018_Fall_E2_130_1-1544467329000&InstructorSolutions:
+{
+    int[] ints = new int[13];
+    int[] ints1 = new int[13];
+    ints[7] = -2147483647;
+    ints1[7] = -2147483647;
+    MetaProgram.Check(ints, ints1);
+}
+bijn6-2018_Fall_E2_130_1-1544467329000&InstructorSolutions:
+{
+    int[] ints = new int[3];
+    int[] ints1 = new int[3];
+    ints[0] = int.MaxValue;
+    ints[1] = int.MaxValue;
+    ints1[0] = int.MaxValue;
+    ints1[1] = int.MaxValue;
+    MetaProgram.Check(ints, ints1);
+}
+bijn6-2018_Fall_E2_130_1-1544467329000&InstructorSolutions:
+{
+    int[] ints = new int[13];
+    int[] ints1 = new int[13];
+    ints[7] = -2147483647;
+    ints1[7] = -2147483647;
+    MetaProgram.Check(ints, ints1);
+}
+bijn6-2018_Fall_E2_130_1-1544467329000&InstructorSolutions:
+{
+    int[] ints = new int[3];
+    int[] ints1 = new int[3];
+    ints[0] = int.MaxValue;
+    ints[1] = int.MaxValue;
+    ints1[0] = int.MaxValue;
+    ints1[1] = int.MaxValue;
+    MetaProgram.Check(ints, ints1);
+}
+bijn6-2018_Fall_E2_130_1-1544467329000&InstructorSolutions:
+{
+    int[] ints = new int[13];
+    int[] ints1 = new int[13];
+    ints[7] = -2147483647;
+    ints1[7] = -2147483647;
+    MetaProgram.Check(ints, ints1);
+}
+bijn6-2018_Fall_E2_130_1-1544467329000&InstructorSolutions:
+{
+    int[] ints = new int[3];
+    int[] ints1 = new int[3];
+    ints[0] = int.MaxValue;
+    ints[1] = int.MaxValue;
+    ints1[0] = int.MaxValue;
+    ints1[1] = int.MaxValue;
+    MetaProgram.Check(ints, ints1);
+}
+bijn6-2018_Fall_E2_130_1-1544467329000&InstructorSolutions:
+{
+    int[] ints = new int[13];
+    int[] ints1 = new int[13];
+    ints[7] = -2147483647;
+    ints1[7] = -2147483647;
+    MetaProgram.Check(ints, ints1);
+}
+bijn6-2018_Fall_E2_130_1-1544467329000&InstructorSolutions:
+{
+    int[] ints = new int[3];
+    int[] ints1 = new int[3];
+    ints[0] = int.MaxValue;
+    ints[1] = int.MaxValue;
+    ints1[0] = int.MaxValue;
+    ints1[1] = int.MaxValue;
+    MetaProgram.Check(ints, ints1);
+}
+bijn6-2018_Fall_E2_130_1-1544467329000&InstructorSolutions:
+{
+    int[] ints = new int[13];
+    int[] ints1 = new int[13];
+    ints[7] = -2147483647;
+    ints1[7] = -2147483647;
+    MetaProgram.Check(ints, ints1);
+}
+bijn6-2018_Fall_E2_130_1-1544467329000&InstructorSolutions:
+{
+    int[] ints = new int[3];
+    int[] ints1 = new int[3];
+    ints[0] = int.MaxValue;
+    ints[1] = int.MaxValue;
+    ints1[0] = int.MaxValue;
+    ints1[1] = int.MaxValue;
+    MetaProgram.Check(ints, ints1);
+}
+bijn6-2018_Fall_E2_130_1-1544467329000&InstructorSolutions:
+{
+    int[] ints = new int[13];
+    int[] ints1 = new int[13];
+    ints[7] = -2147483647;
+    ints1[7] = -2147483647;
+    MetaProgram.Check(ints, ints1);
+}
+bijn6-2018_Fall_E2_130_1-1544467329000&InstructorSolutions:
+{
+    int[] ints = new int[3];
+    int[] ints1 = new int[3];
+    ints[0] = int.MaxValue;
+    ints[1] = int.MaxValue;
+    ints1[0] = int.MaxValue;
+    ints1[1] = int.MaxValue;
+    MetaProgram.Check(ints, ints1);
+}
+bijn6-2018_Fall_E2_130_1-1544467329000&InstructorSolutions:
+{
+    int[] ints = new int[13];
+    int[] ints1 = new int[13];
+    ints[7] = -2147483647;
+    ints1[7] = -2147483647;
+    MetaProgram.Check(ints, ints1);
+}

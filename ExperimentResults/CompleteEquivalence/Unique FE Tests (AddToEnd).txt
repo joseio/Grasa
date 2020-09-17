@@ -1,0 +1,137 @@
+* Selecting first FE test from each cluster
+
+1524263866 (single cluster)
+Fails when (failing condition): l.Last() == 0
+Deviation: does not add a new node. It only overrides the value at last node.
+
+
+[TestMethod]
+[PexGeneratedBy(typeof(MetaProgram))]
+[PexRaisedException(typeof(PexAssertFailedException))]
+public void CheckThrowsPexAssertFailedException978()
+{
+    MetaProgram.List list;
+    MetaProgram.List list1;
+    int[] ints = new int[3];
+    list = MetaProgramFactory.CreateList(ints);
+    int[] ints1 = new int[3];
+    list1 = MetaProgramFactory.CreateList(ints1);
+    MetaProgram.Check(list1, list, 0);
+}
+
+----
+
+1525739354 (single cluster)
+Fails when (failing condition): l.Count() < = 1
+Deviation: Add item twice
+
+[TestMethod]
+[PexGeneratedBy(typeof(MetaProgram))]
+[PexRaisedException(typeof(PexAssertFailedException))]
+public void CheckThrowsPexAssertFailedException454()
+{
+    MetaProgram.List list;
+    MetaProgram.List list1;
+    int[] ints = new int[1];
+    list = MetaProgramFactory.CreateList(ints);
+    int[] ints1 = new int[1];
+    list1 = MetaProgramFactory.CreateList(ints1);
+    MetaProgram.Check(list1, list, 0);
+}
+
+----
+
+1524263569 (multi-cluster)
+Fails when (failing condition): l.Count() < = 1
+Deviation: first- It does not add anything (no-op)
+           second- It does not add anything redundant assignment (no-op)
+           third- It does not add anything redundant assignment (no-op)
+
+
+[TestMethod]
+[PexGeneratedBy(typeof(MetaProgram))]
+[PexRaisedException(typeof(PexAssertFailedException))]
+public void CheckThrowsPexAssertFailedException791()
+{
+    MetaProgram.List list;
+    MetaProgram.List list1;
+    int[] ints = new int[1];
+    list = MetaProgramFactory.CreateList(ints);
+    int[] ints1 = new int[1];
+    list1 = MetaProgramFactory.CreateList(ints1);
+    MetaProgram.Check(list1, list, 0);
+}
+
+----
+
+1525112432 (multi-cluster) 
+
+Fails when l.Count() == 2
+Deviations: no-op - For List of length 2, it does not Add a new element.
+
+[TestMethod]
+[PexGeneratedBy(typeof(MetaProgram))]
+[PexRaisedException(typeof(PexAssertFailedException))]
+public void CheckThrowsPexAssertFailedException680()
+{
+    MetaProgram.List list;
+    MetaProgram.List list1;
+    int[] ints = new int[2];
+    list = MetaProgramFactory.CreateList(ints);
+    int[] ints1 = new int[2];
+    list1 = MetaProgramFactory.CreateList(ints1);
+    MetaProgram.Check(list1, list, 0);
+}
+
+----
+
+1525706850 (multi-cluster)
+
+Fails when (failing condition): l.Count() <= 1
+Deviations: throws null reference exception
+
+
+[TestMethod]
+[PexGeneratedBy(typeof(MetaProgram))]
+[PexRaisedException(typeof(PexAssertFailedException))]
+public void CheckThrowsPexAssertFailedException548()
+{
+    MetaProgram.List list;
+    MetaProgram.List list1;
+    int[] ints = new int[1];
+    list = MetaProgramFactory.CreateList(ints);
+    int[] ints1 = new int[1];
+    list1 = MetaProgramFactory.CreateList(ints1);
+    MetaProgram.Check( list1 list, 0);
+}
+
+
+----------- 
+
+Union:
+
+{
+    MetaProgram.List list;
+    MetaProgram.List list1;
+    int[] ints = new int[1];
+    list = MetaProgramFactory.CreateList(ints);
+    int[] ints1 = new int[1];
+    list1 = MetaProgramFactory.CreateList(ints1);
+    MetaProgram.Check( list1 list, 0);
+
+    MetaProgram.List list;
+    MetaProgram.List list1;
+    int[] ints = new int[2];
+    list = MetaProgramFactory.CreateList(ints);
+    int[] ints1 = new int[2];
+    list1 = MetaProgramFactory.CreateList(ints1);
+    MetaProgram.Check(list1, list, 0);
+
+    MetaProgram.List list;
+    MetaProgram.List list1;
+    int[] ints = new int[3];
+    list = MetaProgramFactory.CreateList(ints);
+    int[] ints1 = new int[3];
+    list1 = MetaProgramFactory.CreateList(ints1);
+    MetaProgram.Check(list1, list, 0);
+}

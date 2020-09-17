@@ -1,0 +1,9 @@
+PSE Cluster: 0.4	Resultant PSE Score: 0.3	Reference Submission: 1523668041.cs	Compared Submission: 1523923886.cs	Not Matched
+PSE Cluster: 0.4	Resultant PSE Score: 0.3	Reference Submission: 1523668041.cs	Compared Submission: 1523924174.cs	Not Matched
+PSE Cluster: 0.4	Resultant PSE Score: 0.3	Reference Submission: 1523668041.cs	Compared Submission: 1523924301.cs	Not Matched
+PSE Cluster: 0.4	Resultant PSE Score: 0.3	Reference Submission: 1523668041.cs	Compared Submission: 1523924429.cs	Not Matched
+PSE Cluster: 0.4	Resultant PSE Score: 0.3	Reference Submission: 1523668041.cs	Compared Submission: 1523924472.cs	Not Matched
+PSE Cluster: 0.4	Resultant PSE Score: 1	Reference Submission: 1523923886.cs	Compared Submission: 1523924174.cs	Matched
+PSE Cluster: 0.4	Resultant PSE Score: 1	Reference Submission: 1523923886.cs	Compared Submission: 1523924301.cs	Matched
+PSE Cluster: 0.4	Resultant PSE Score: 1	Reference Submission: 1523923886.cs	Compared Submission: 1523924429.cs	Matched
+PSE Cluster: 0.4	Resultant PSE Score: 1	Reference Submission: 1523923886.cs	Compared Submission: 1523924472.cs	Matched

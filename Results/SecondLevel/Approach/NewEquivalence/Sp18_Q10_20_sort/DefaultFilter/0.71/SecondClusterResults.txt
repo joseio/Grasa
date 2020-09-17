@@ -1,0 +1,6 @@
+PSE Cluster: 0.71	Resultant PSE Score: 1	Reference Submission: 1523668112.cs	Compared Submission: 1523668125.cs	Matched
+PSE Cluster: 0.71	Resultant PSE Score: 1	Reference Submission: 1523668112.cs	Compared Submission: 1523668150.cs	Matched
+PSE Cluster: 0.71	Resultant PSE Score: 1	Reference Submission: 1523668112.cs	Compared Submission: 1523668228.cs	Matched
+PSE Cluster: 0.71	Resultant PSE Score: 1	Reference Submission: 1523668112.cs	Compared Submission: 1523668344.cs	Matched
+PSE Cluster: 0.71	Resultant PSE Score: 1	Reference Submission: 1523668112.cs	Compared Submission: 1523668758.cs	Matched
+PSE Cluster: 0.71	Resultant PSE Score: 1	Reference Submission: 1523668112.cs	Compared Submission: 1523920866.cs	Matched

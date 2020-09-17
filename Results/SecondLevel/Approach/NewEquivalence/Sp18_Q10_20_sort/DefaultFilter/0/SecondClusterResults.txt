@@ -1,0 +1,13 @@
+PSE Cluster: 0	Resultant PSE Score: 0	Reference Submission: 1523639417.cs	Compared Submission: 1523639480.cs	Not Matched
+PSE Cluster: 0	Resultant PSE Score: 0	Reference Submission: 1523639417.cs	Compared Submission: 1523639480.cs	Not Matched
+PSE Cluster: 0	Resultant PSE Score: 0	Reference Submission: 1523639417.cs	Compared Submission: 1523920161.cs	Not Matched
+PSE Cluster: 0	Resultant PSE Score: 0	Reference Submission: 1523639417.cs	Compared Submission: 1523639480.cs	Not Matched
+PSE Cluster: 0	Resultant PSE Score: 0	Reference Submission: 1523639417.cs	Compared Submission: 1523920161.cs	Not Matched
+PSE Cluster: 0	Resultant PSE Score: 0	Reference Submission: 1523639417.cs	Compared Submission: 1523930999.cs	Not Matched
+PSE Cluster: 0	Resultant PSE Score: 0	Reference Submission: 1523639417.cs	Compared Submission: 1523931625.cs	Not Matched
+PSE Cluster: 0	Resultant PSE Score: 0	Reference Submission: 1523639480.cs	Compared Submission: 1523920161.cs	Not Matched
+PSE Cluster: 0	Resultant PSE Score: 0	Reference Submission: 1523639480.cs	Compared Submission: 1523930999.cs	Not Matched
+PSE Cluster: 0	Resultant PSE Score: 0	Reference Submission: 1523639480.cs	Compared Submission: 1523931625.cs	Not Matched
+PSE Cluster: 0	Resultant PSE Score: 0	Reference Submission: 1523920161.cs	Compared Submission: 1523930999.cs	Not Matched
+PSE Cluster: 0	Resultant PSE Score: 0	Reference Submission: 1523920161.cs	Compared Submission: 1523931625.cs	Not Matched
+PSE Cluster: 0	Resultant PSE Score: 0	Reference Submission: 1523930999.cs	Compared Submission: 1523931625.cs	Not Matched

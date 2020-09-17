@@ -1,0 +1,8 @@
+------ Build started: Project: meta_project1525456207, Configuration: Debug Any CPU ------
+  meta_project1525456207 -> C:\Users\dt-impact\Documents\CodeSimilarity\codesimilarity\Approach\subsumption\Sp18_Q10_20_sort\editedMetaProject\bin\Debug\meta_project1525456207.dll
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
+
+------ Build started: Project: meta_project1525456207, Configuration: Debug Any CPU ------
+  meta_project1525456207 -> C:\Users\dt-impact\Documents\CodeSimilarity\codesimilarity\Approach\Subsumption\Sp18_Q10_20_sort\editedMetaProject\bin\Debug\meta_project1525456207.dll
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
+

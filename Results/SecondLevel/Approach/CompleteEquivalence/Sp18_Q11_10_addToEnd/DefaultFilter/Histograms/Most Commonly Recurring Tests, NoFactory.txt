@@ -1,0 +1,119 @@
+Overall:
+According to the PUT that uses no factory method and only calls addToEnd once per list, JUST adding the test directly below SHOULD be sufficient.
+
+(0.75.txt = 52) + (0.57.txt = 1) + (0.67.txt = 1) = 54  <---------JUST adding this one SHOULD subsume rest
+{
+    MetaProgram.List s0 = new MetaProgram.List();
+    s0.value = 0;
+    s0.next = (MetaProgram.List)null;
+    MetaProgram.List s1 = new MetaProgram.List();
+    s1.value = 0;
+    s1.next = (MetaProgram.List)null;
+    MetaProgram.Check(s0, s1, 0);
+}
+
+(0.75.txt = 8) + (0.8.txt = 3) + (0.57.txt = 2) + (0.67.txt = 0) = 13
+{
+    MetaProgram.List s0 = new MetaProgram.List();
+    s0.value = 0;
+    MetaProgram.List s1 = new MetaProgram.List();
+    s1.value = 0;
+    s1.next = (MetaProgram.List)null;
+    s0.next = s1;
+    MetaProgram.List s2 = new MetaProgram.List();
+    s2.value = 0;
+    MetaProgram.List s3 = new MetaProgram.List();
+    s3.value = 0;
+    s3.next = (MetaProgram.List)null;
+    s2.next = s3;
+    MetaProgram.Check(s0, s2, 0);
+}
+
+
+(0.57.txt = 1) + (0.75.txt = 0) + (0.67.txt = 0) + (0.8.txt = 0) = 1
+{
+    MetaProgram.List s0 = new MetaProgram.List();
+    s0.value = 0;
+    MetaProgram.List s1 = new MetaProgram.List();
+    s1.value = 0;
+    MetaProgram.List s2 = new MetaProgram.List();
+    s2.value = 0;
+    MetaProgram.List s3 = new MetaProgram.List();
+    s3.value = 0;
+    MetaProgram.List s4 = new MetaProgram.List();
+    s4.value = 0;
+    MetaProgram.List s5 = new MetaProgram.List();
+    s5.value = 0;
+    MetaProgram.List s6 = new MetaProgram.List();
+    s6.value = 0;
+    MetaProgram.List s7 = new MetaProgram.List();
+    s7.value = 0;
+    MetaProgram.List s8 = new MetaProgram.List();
+    s8.value = 0;
+    s8.next = (MetaProgram.List)null;
+    s7.next = s8;
+    s6.next = s7;
+    s5.next = s6;
+    s4.next = s5;
+    s3.next = s4;
+    s2.next = s3;
+    s1.next = s2;
+    s0.next = s1;
+    MetaProgram.List s9 = new MetaProgram.List();
+    s9.value = 0;
+    MetaProgram.List s10 = new MetaProgram.List();
+    s10.value = 0;
+    MetaProgram.List s11 = new MetaProgram.List();
+    s11.value = 0;
+    MetaProgram.List s12 = new MetaProgram.List();
+    s12.value = 0;
+    MetaProgram.List s13 = new MetaProgram.List();
+    s13.value = 0;
+    MetaProgram.List s14 = new MetaProgram.List();
+    s14.value = 0;
+    MetaProgram.List s15 = new MetaProgram.List();
+    s15.value = 0;
+    MetaProgram.List s16 = new MetaProgram.List();
+    s16.value = 0;
+    MetaProgram.List s17 = new MetaProgram.List();
+    s17.value = 0;
+    s17.next = (MetaProgram.List)null;
+    s16.next = s17;
+    s15.next = s16;
+    s14.next = s15;
+    s13.next = s14;
+    s12.next = s13;
+    s11.next = s12;
+    s10.next = s11;
+    s9.next = s10;
+    MetaProgram.Check(s0, s9, 0);
+}
+
+(0.57.txt = 1) + (0.75.txt = 0) + (0.67.txt = 0) + (0.8.txt = 0) = 1
+{
+    MetaProgram.List s0 = new MetaProgram.List();
+    s0.value = 0;
+    MetaProgram.List s1 = new MetaProgram.List();
+    s1.value = 0;
+    MetaProgram.List s2 = new MetaProgram.List();
+    s2.value = 0;
+    MetaProgram.List s3 = new MetaProgram.List();
+    s3.value = 0;
+    s3.next = (MetaProgram.List)null;
+    s2.next = s3;
+    s1.next = s2;
+    s0.next = s1;
+    MetaProgram.List s4 = new MetaProgram.List();
+    s4.value = 0;
+    MetaProgram.List s5 = new MetaProgram.List();
+    s5.value = 0;
+    MetaProgram.List s6 = new MetaProgram.List();
+    s6.value = 0;
+    MetaProgram.List s7 = new MetaProgram.List();
+    s7.value = 0;
+    s7.next = (MetaProgram.List)null;
+    s6.next = s7;
+    s5.next = s6;
+    s4.next = s5;
+    MetaProgram.Check(s0, s4, 0);
+}

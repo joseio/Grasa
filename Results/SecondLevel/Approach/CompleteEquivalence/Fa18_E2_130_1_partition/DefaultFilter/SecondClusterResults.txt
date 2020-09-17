@@ -1,0 +1,8 @@
+Cluster: InstructorSolutions	Resultant PSE Score: 0.75	Reference Submission: InstructorSolutions	Compared Submission: bijn6-2018_Fall_E2_130_1-1544467329000	Not Matched
+Cluster: InstructorSolutions	Resultant PSE Score: 0.83	Reference Submission: InstructorSolutions	Compared Submission: qvgr3-2018_Fall_E2_130_1-1544488089000	Not Matched
+Cluster: InstructorSolutions	Resultant PSE Score: 0.62	Reference Submission: InstructorSolutions	Compared Submission: sezouj3-2018_Fall_E2_130_1-1544413397000	Not Matched
+Cluster: InstructorSolutions	Resultant PSE Score: 0.89	Reference Submission: InstructorSolutions	Compared Submission: wffsq4-2018_Fall_E2_130_1-1544481385000	Not Matched
+Cluster: bijn6-2018_Fall_E2_130_1-1544467329000	Resultant PSE Score: 0.62	Reference Submission: bijn6-2018_Fall_E2_130_1-1544467329000	Compared Submission: qvgr3-2018_Fall_E2_130_1-1544488089000	Not Matched
+Cluster: bijn6-2018_Fall_E2_130_1-1544467329000	Resultant PSE Score: 1	Reference Submission: bijn6-2018_Fall_E2_130_1-1544467329000	Compared Submission: sezouj3-2018_Fall_E2_130_1-1544413397000	Matched
+Cluster: bijn6-2018_Fall_E2_130_1-1544467329000	Resultant PSE Score: 0.55	Reference Submission: bijn6-2018_Fall_E2_130_1-1544467329000	Compared Submission: wffsq4-2018_Fall_E2_130_1-1544481385000	Not Matched
+Cluster: qvgr3-2018_Fall_E2_130_1-1544488089000	Resultant PSE Score: 0.56	Reference Submission: qvgr3-2018_Fall_E2_130_1-1544488089000	Compared Submission: wffsq4-2018_Fall_E2_130_1-1544481385000	Not Matched

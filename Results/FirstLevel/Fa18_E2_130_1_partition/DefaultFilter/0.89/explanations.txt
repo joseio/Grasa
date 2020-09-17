@@ -1,0 +1,5 @@
+Note: This submission passed on Geoff's "testClassDesign, "testSimpleInputs", and "testRandomInputs"
+
+- Fails on array of size two with two identical elements
+- Simple tests do not check for array of two elements equal to each other
+

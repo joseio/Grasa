@@ -1,0 +1,11 @@
+GOAL OF PROBLEM:
+Return array indx where everything to LEFT and RIGHT of indx is strictly less and greater than (respectively) the value at the indx position
+
+Note: This submission passed on Geoff's "testClassDesign, "testSimpleInputs", and "testRandomInputs"
+---
+Fails when 2+ adjacent elements have the same non-zero value, regardless of how far these two elements are offset from the beginning of the array
+	-> Ex: Input: values = {1023, 1023, 0} 
+		Intermediate result: values = {1023, 1023, 1023}
+		Final result: pivotPosition = 0
+		Expected intermediate result: values = {0, 1023, 1023}
+		Expected final result: pivotPosition = 1

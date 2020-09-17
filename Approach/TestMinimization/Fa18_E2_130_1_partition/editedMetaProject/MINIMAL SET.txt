@@ -1,0 +1,65 @@
+/*Killed following submissions:
+  sezouj3-2018_Fall_E2_130_1-1544413397000
+  bijn6-2018_Fall_E2_130_1-1544467329000
+  qvgr3-2018_Fall_E2_130_1-1544488089000
+
+  Failed on input {1000, 1000, 0}
+*/
+
+[TestMethod]
+[PexGeneratedBy(typeof(MetaProgram))]
+public void Check827()
+{
+    using (PexTraceListenerContext.Create())
+    {
+      int[] ints = new int[3];
+      int[] ints1 = new int[3];
+      int[] ints2 = new int[3];
+      int[] ints3 = new int[3];
+      int[] ints4 = new int[3];
+      ints[0] = 1000;
+      ints[1] = 1000;
+      ints1[0] = 1000;
+      ints1[1] = 1000;
+      ints2[0] = 1000;
+      ints2[1] = 1000;
+      ints3[0] = 1000;
+      ints3[1] = 1000;
+      ints4[0] = 1000;
+      ints4[1] = 1000;
+      MetaProgram.Check(ints, ints1, ints2, ints3, ints4);
+    }
+}
+
+-------------
+
+/*Killed following submission:
+  wffsq4-2018_Fall_E2_130_1-1544481385000
+
+  Failed on input {int.MaxValue, int.MaxValue}
+*/
+
+[TestMethod]
+[PexGeneratedBy(typeof(MetaProgram))]
+public void Check840()
+{
+    using (PexTraceListenerContext.Create())
+    {
+      int[] ints = new int[2];
+      int[] ints1 = new int[2];
+      int[] ints2 = new int[2];
+      int[] ints3 = new int[2];
+      int[] ints4 = new int[2];
+      ints[0] = int.MaxValue;
+      ints[1] = int.MaxValue;
+      ints1[0] = int.MaxValue;
+      ints1[1] = int.MaxValue;
+      ints2[0] = int.MaxValue;
+      ints2[1] = int.MaxValue;
+      ints3[0] = int.MaxValue;
+      ints3[1] = int.MaxValue;
+      ints4[0] = int.MaxValue;
+      ints4[1] = int.MaxValue;
+      MetaProgram.Check(ints, ints1, ints2, ints3, ints4);
+    }
+}

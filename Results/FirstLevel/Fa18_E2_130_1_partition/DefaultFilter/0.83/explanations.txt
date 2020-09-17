@@ -1,0 +1,7 @@
+Note: This submission passed on Geoff's "testClassDesign, "testSimpleInputs", and "testRandomInputs"
+
+- Handles inputs < 3 
+- But for inputs >= 3...
+	+ Changes all the values except the 0th index to 99999
+	+ Return the 0th index
+- Geoff test suite does not check to see if all element values are still there

@@ -1,0 +1,23 @@
+(0.5.txt = 9 + 0.57.txt = 1 + 0.71.txt = 34 + 0.67.txt = 14 + 0.78.txt = 0 + 0.86.txt = 0) = 58
+{
+    MetaProgram.List list;
+    MetaProgram.List list1;
+    int[] ints = new int[0];
+    list = MetaProgramFactory.CreateList(ints);
+    int[] ints1 = new int[0];
+    list1 = MetaProgramFactory.CreateList(ints1);
+    MetaProgram.Check(list1, list, 0, 1);
+}
+
+(0.5.txt = 9 + 0.57.txt = 1 + 0.71.txt = 34 + 0.67.txt = 22 + 0.78.txt = 2 + 0.86.txt = 0) = 68
+{
+    MetaProgram.List list;
+    MetaProgram.List list1;
+    int[] ints = new int[0];
+    list = MetaProgramFactory.CreateList(ints);
+    int[] ints1 = new int[0];
+    list1 = MetaProgramFactory.CreateList(ints1);
+    MetaProgram.Check(list1, list, 0, 2);
+}
+
+(0.5.txt = 9 + 0.57.txt = 1 + 0.71.txt = 34 + 0.67.txt = 22 + 0.78.txt = 2 + 0.86.txt = 0) = 68

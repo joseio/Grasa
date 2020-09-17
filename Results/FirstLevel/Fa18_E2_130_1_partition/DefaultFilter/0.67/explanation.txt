@@ -1,0 +1,11 @@
+GOAL OF PROBLEM:
+Return array indx where everything to LEFT and RIGHT of indx is strictly less and greater than (respectively) the value at the indx position
+
+Note: This submission passed on Geoff's "testClassDesign, "testSimpleInputs", and "testRandomInputs"
+---
+Fails when any non-zero value is situated at an indx > arrayMidpt
+	-> Ex: Input: values = {0, 0, 0, 2, 0}
+		Intermediate result: values = {0, 0, 0, 0, 0}
+		Final result: pivotPosition = 0
+		Expected intermediate result: values = {0, 0, 0, 0, 2}
+		Expected final result: pivotPosition = 4

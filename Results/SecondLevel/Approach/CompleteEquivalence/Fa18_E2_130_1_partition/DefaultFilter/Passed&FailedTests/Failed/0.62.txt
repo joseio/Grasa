@@ -1,0 +1,120 @@
+sezouj3-2018_Fall_E2_130_1-1544413397000&InstructorSolutions:
+{
+    int[] ints = new int[3];
+    int[] ints1 = new int[3];
+    ints[0] = 1023;
+    ints[1] = 1023;
+    ints1[0] = 1023;
+    ints1[1] = 1023;
+    MetaProgram.Check(ints, ints1);
+}
+sezouj3-2018_Fall_E2_130_1-1544413397000&InstructorSolutions:
+{
+    int[] ints = new int[4];
+    int[] ints1 = new int[4];
+    ints[0] = 1023;
+    ints[1] = 1023;
+    ints1[0] = 1023;
+    ints1[1] = 1023;
+    MetaProgram.Check(ints, ints1);
+}
+sezouj3-2018_Fall_E2_130_1-1544413397000&InstructorSolutions:
+{
+    int[] ints = new int[5];
+    int[] ints1 = new int[5];
+    ints[0] = 1023;
+    ints[1] = 1023;
+    ints1[0] = 1023;
+    ints1[1] = 1023;
+    MetaProgram.Check(ints, ints1);
+}
+sezouj3-2018_Fall_E2_130_1-1544413397000&InstructorSolutions:
+{
+    int[] ints = new int[3];
+    int[] ints1 = new int[3];
+    ints[0] = 1023;
+    ints[1] = 1023;
+    ints1[0] = 1023;
+    ints1[1] = 1023;
+    MetaProgram.Check(ints, ints1);
+}
+sezouj3-2018_Fall_E2_130_1-1544413397000&InstructorSolutions:
+{
+    int[] ints = new int[4];
+    int[] ints1 = new int[4];
+    ints[0] = 1023;
+    ints[1] = 1023;
+    ints1[0] = 1023;
+    ints1[1] = 1023;
+    MetaProgram.Check(ints, ints1);
+}
+sezouj3-2018_Fall_E2_130_1-1544413397000&InstructorSolutions:
+{
+    int[] ints = new int[5];
+    int[] ints1 = new int[5];
+    ints[0] = 1023;
+    ints[1] = 1023;
+    ints1[0] = 1023;
+    ints1[1] = 1023;
+    MetaProgram.Check(ints, ints1);
+}
+sezouj3-2018_Fall_E2_130_1-1544413397000&InstructorSolutions:
+{
+    int[] ints = new int[3];
+    int[] ints1 = new int[3];
+    ints[0] = 1023;
+    ints[1] = 1023;
+    ints1[0] = 1023;
+    ints1[1] = 1023;
+    MetaProgram.Check(ints, ints1);
+}
+sezouj3-2018_Fall_E2_130_1-1544413397000&InstructorSolutions:
+{
+    int[] ints = new int[4];
+    int[] ints1 = new int[4];
+    ints[0] = 1023;
+    ints[1] = 1023;
+    ints1[0] = 1023;
+    ints1[1] = 1023;
+    MetaProgram.Check(ints, ints1);
+}
+sezouj3-2018_Fall_E2_130_1-1544413397000&InstructorSolutions:
+{
+    int[] ints = new int[5];
+    int[] ints1 = new int[5];
+    ints[0] = 1023;
+    ints[1] = 1023;
+    ints1[0] = 1023;
+    ints1[1] = 1023;
+    MetaProgram.Check(ints, ints1);
+}
+qvgr3-2018_Fall_E2_130_1-1544488089000&bijn6-2018_Fall_E2_130_1-1544467329000:
+{
+    int[] ints = new int[3];
+    int[] ints1 = new int[3];
+    ints[0] = int.MaxValue;
+    ints1[0] = int.MaxValue;
+    MetaProgram.Check(ints, ints1);
+}
+qvgr3-2018_Fall_E2_130_1-1544488089000&bijn6-2018_Fall_E2_130_1-1544467329000:
+{
+    int[] ints = new int[3];
+    int[] ints1 = new int[3];
+    ints[0] = int.MaxValue;
+    ints[1] = 1;
+    ints[2] = int.MaxValue;
+    ints1[0] = int.MaxValue;
+    ints1[1] = 1;
+    ints1[2] = int.MaxValue;
+    MetaProgram.Check(ints, ints1);
+}
+qvgr3-2018_Fall_E2_130_1-1544488089000&bijn6-2018_Fall_E2_130_1-1544467329000:
+{
+    int[] ints = new int[3];
+    int[] ints1 = new int[3];
+    ints[0] = int.MaxValue;
+    ints[1] = -2134769662;
+    ints1[0] = int.MaxValue;
+    ints1[1] = -2134769662;
+    MetaProgram.Check(ints, ints1);
+}

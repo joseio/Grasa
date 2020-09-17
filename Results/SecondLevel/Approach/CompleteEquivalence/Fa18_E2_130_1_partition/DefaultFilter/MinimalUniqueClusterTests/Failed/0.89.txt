@@ -1,0 +1,4 @@
+{    int[] ints = new int[2];    int[] ints1 = new int[2];    MetaProgram.Check(ints, ints1);}
+{    int[] ints = new int[2];    int[] ints1 = new int[2];    MetaProgram.Check(ints, ints1);}
+{    int[] ints = new int[2];    int[] ints1 = new int[2];    MetaProgram.Check(ints, ints1);}
+

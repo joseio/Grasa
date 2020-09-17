@@ -1,0 +1,39 @@
+{
+    MetaProgram.List s0 = new MetaProgram.List();
+    s0.value = 0;
+    s0.next = (MetaProgram.List)null;
+    MetaProgram.List s1 = new MetaProgram.List();
+    s1.value = 0;
+    s1.next = (MetaProgram.List)null;
+    MetaProgram.Check(s0, s1, 0, 1);
+}
+{
+    MetaProgram.List s0 = new MetaProgram.List();
+    s0.value = 0;
+    MetaProgram.List s1 = new MetaProgram.List();
+    s1.value = 0;
+    s1.next = (MetaProgram.List)null;
+    s0.next = s1;
+    MetaProgram.List s2 = new MetaProgram.List();
+    s2.value = 0;
+    MetaProgram.List s3 = new MetaProgram.List();
+    s3.value = 0;
+    s3.next = (MetaProgram.List)null;
+    s2.next = s3;
+    MetaProgram.Check(s0, s2, 0, 1);
+}
+{
+    MetaProgram.List s0 = new MetaProgram.List();
+    s0.value = 0;
+    MetaProgram.List s1 = new MetaProgram.List();
+    s1.value = 0;
+    s1.next = (MetaProgram.List)null;
+    s0.next = s1;
+    MetaProgram.List s2 = new MetaProgram.List();
+    s2.value = 0;
+    MetaProgram.List s3 = new MetaProgram.List();
+    s3.value = 0;
+    s3.next = (MetaProgram.List)null;
+    s2.next = s3;
+    MetaProgram.Check(s0, s2, 0, 2);
+}
